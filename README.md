@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexzou08
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java and some front-end knowledge
-- 💞️ I’m looking to collaborate on web development, all stack
+- 💞️ I’m looking to collaborate on web development, full stack
 - 📫 How to reach me: alexzou08@gmail.com
 
 <!---
