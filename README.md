@@ -1,11 +1,25 @@
-- 👋 Hi, I’m Jiaqi Zou
-- 😄 Pronouns: She/Her
-- 👀 I’m interested in Java, Object Oriented Programming
-- 👯 I’m looking to find my first position as a web developer
-- 🤔 I’m looking for help with finding a clear path to being a coder
-- 🌱 I’m currently doing some projects on both frontend and backend
-- 💞️ I’m looking for collaborating in useful and challenging projects
-- 📫 How to reach me: alexzou08@gmail.com  LinkedIn: www.linkedin.com/in/jiaqi-zou-08
+### Hi there 👋, my name is Jiaqi
+#### I am a self-taught coder, was a researcher.
+
+Skills: JAVA / JS / HTML / CSS
+
+- 🔭 I’m currently working on Java and Algorithms 
+- 🌱 I’m currently learning Spring Boot and Angular 
+- 👯 I’m looking to collaborate on projects that are challenging and useful 
+- 🤔 I’m looking for help with job finding advice in Canada 
+- 💬 Ask me about Start coding from scratch 
+- 📫 How to reach me: alexzou08@gmail.com 
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I considered to be a pet groomer 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alexzou08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jiaqi-zou-08/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzou08)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexzou08&show_icons=true)  
+
+
 
 <!---
 alexzou08/alexzou08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
