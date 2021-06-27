@@ -10,7 +10,7 @@ Skills: JAVA / JS / HTML / CSS
 - 💬 Ask me about coding from scratch
 - 📫 How to reach me: alexzou08@gmail.com LinkedIn: https://www.linkedin.com/in/jiaqi-zou-08/
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I considered to be a pet groomer 
+- ⚡ Fun fact: I used to consider to be a pet groomer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzou08&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
