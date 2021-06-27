@@ -5,9 +5,9 @@ Skills: JAVA / JS / HTML / CSS
 
 - 🔭 I’m currently working on Java and Algorithms 
 - 🌱 I’m currently learning Spring Boot and Angular 
-- 👯 I’m looking to collaborate on projects that are challenging and useful 
+- 👯 I’m looking to collaborate on projects that are user-friendly and useful
 - 🤔 I’m looking for help with job finding advice in Canada 
-- 💬 Ask me about Start coding from scratch 
+- 💬 Ask me about coding from scratch
 - 📫 How to reach me: alexzou08@gmail.com LinkedIn: https://www.linkedin.com/in/jiaqi-zou-08/
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I considered to be a pet groomer 
