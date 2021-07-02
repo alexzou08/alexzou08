@@ -8,7 +8,7 @@ Skills: JAVA / JS / HTML / CSS
 - 👯 I’m looking to collaborate on projects that are user-friendly and useful
 - 🤔 I’m looking for help with job finding advice in Canada 
 - 💬 Ask me about learning coding from scratch
-- 📫 How to reach me: alexzou08@gmail.com LinkedIn:
+- 📫 How to reach me: alexzou08@gmail.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I used to consider to be a pet groomer 
 
