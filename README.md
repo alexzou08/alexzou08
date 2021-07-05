@@ -3,14 +3,14 @@
 
 Skills: JAVA / JS / HTML / CSS
 
-- 🔭 I’m currently working on Java and Algorithms 
-- 🌱 I’m currently learning Spring Boot and Angular 
-- 👯 I’m looking to collaborate on projects that are user-friendly and useful
-- 🤔 I’m looking for help with job finding advice in Canada 
+- 🔭 I’m currently working on data structures and algorithms 
+- 🌱 I’m learning frameworks and full stack technologies 
+- 👯 I’m looking to develop applications that are user-friendly and useful
+- 🤔 I’m seeking a job in Canada as software engineer
 - 💬 Ask me about learning coding from scratch
 - 📫 How to reach me: alexzou08@gmail.com
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I used to consider to be a pet groomer 
+- ⚡ Fun fact: I wanted to become a pet groomer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzou08&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
