@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jiaqi
-#### I am a self-taught coder, was a researcher.
+#### I am a self-taught software engineer who is committed to lifelong learning.
 
 Skills: Java / JS / HTML / CSS
 
