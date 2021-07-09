@@ -6,7 +6,7 @@ Skills: Java / JS / HTML / CSS
 - 🔭 I’m currently working on data structures and algorithms 
 - 🌱 I’m learning frameworks and full stack technologies 
 - 👯 I’m looking to develop applications that are user-friendly and useful
-- 🤔 I’m seeking a job in Canada as software engineer
+- 🤔 I’m seeking a job in Canada as a software engineer
 - 💬 Ask me about learning coding from scratch
 - 📫 How to reach me: alexzou08@gmail.com
 - 😄 Pronouns: She/Her 
