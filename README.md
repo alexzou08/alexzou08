@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Jiaqi
-#### I am a self-taught software engineer who is committed to lifelong learning.
+## Hi there 👋, my name is Jiaqi
+### I am a self-taught software engineer who is committed to lifelong learning.
 
-Skills: Java / JS / HTML / CSS / SQL
+### Skills: Java / JS / HTML / CSS / SQL
 
 - 🔭 I’m currently working on data structures and algorithms 
 - 🌱 I’m learning frameworks and full stack technologies 
