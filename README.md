@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jiaqi
 #### I am a self-taught coder, was a researcher.
 
-Skills: JAVA / JS / HTML / CSS
+Skills: Java / JS / HTML / CSS
 
 - 🔭 I’m currently working on data structures and algorithms 
 - 🌱 I’m learning frameworks and full stack technologies 
