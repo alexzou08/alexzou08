@@ -11,7 +11,7 @@
 - 💬 Ask me about learning coding from scratch
 - 📫 How to reach me: alexzou08@gmail.com
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I wanted to become a pet groomer
+- ⚡ Fun fact: I am interested in animal protection
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzou08&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
