@@ -3,7 +3,7 @@
 ### I am a self-taught software engineer who is committed to lifelong learning.
 ### Writing readable and reusable [clean code] is my greatest passion. 
 
-#### Skills: Java / JS / HTML / CSS / SQL
+### Skills: Java / JavaScript / HTML / CSS / SQL
 
 - 🔭 I’m currently working on data structures and algorithms 
 - 🌱 I’m learning frameworks and full stack technologies 
