@@ -6,7 +6,7 @@
 ### Skills: Java / JavaScript / HTML / CSS / SQL
 
 - 🔭 I’m currently working on data structures and algorithms 
-- 🌱 I’m learning frameworks and full stack technologies 
+- 🌱 I’m learning frameworks and up-to-date full stack technologies 
 - 👯 I’m looking to develop applications that are user-friendly and useful
 - 🤔 I’m seeking a job in Canada as a software engineer
 - 💬 Ask me about learning coding from scratch
