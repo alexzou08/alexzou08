@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Jiaqi
 
-### I am a self-taught software developer who is committed to lifelong learning.
+### I am a self-taught software engineer who is committed to lifelong learning.
 ### Writing readable and reusable [clean code] is my greatest passion. 
 
 ### Skills: Java / JavaScript / HTML / CSS / SQL
