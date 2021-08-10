@@ -5,11 +5,11 @@
 
 ### Skills: Java / Data Structures and Algorithms/ JavaScript / HTML / CSS / SQL
 
-- 🔭 I’m currently working on data structures and algorithms 
+- 🔭 I’m currently working on data structures and algorithms - heap
 - 🌱 I’m learning frameworks and up-to-date full stack technologies 
 - 👯 I’m looking to develop applications that are user-friendly and useful
-- 🤔 I’m seeking a job in Canada as a software engineer
-- 💬 Ask me about learning coding from scratch
+- 🤔 I’m seeking a job in Canada as a software development engineer
+- 💬 Ask me about learning coding from scratch and self-teaching
 - 📫 How to reach me: alexzou08@gmail.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I am interested in animal protection
