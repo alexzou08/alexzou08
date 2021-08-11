@@ -12,7 +12,7 @@
 - 💬 Ask me about learning coding from scratch and self-teaching
 - 📫 How to reach me: alexzou08@gmail.com
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I am interested in animal protection
+- ⚡ Fun fact: I am interested in animal protection and outdoor sports
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzou08&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
