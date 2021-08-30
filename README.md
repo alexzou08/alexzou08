@@ -3,8 +3,8 @@
 ### I am a self-taught software development engineer who is committed to lifelong learning.
 ### Writing readable and reusable [clean code] is my greatest passion. 
 
-### Skills: Java / Data Structures and Algorithms / JavaScript / HTML / CSS / SQL
-### Object Oriented Design / System Design
+### Skills: Java / JavaScript / HTML / CSS / SQL
+### Object Oriented Design / System Design / Data Structures and Algorithms 
 
 - 🔭 I’m currently working on data structures and algorithms - heap
 - 🌱 I’m learning frameworks and up-to-date full stack technologies 
