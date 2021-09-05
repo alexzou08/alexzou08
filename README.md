@@ -11,7 +11,7 @@
 - 🌱 I’m learning frameworks and up-to-date full stack technologies 
 - 👯 I’m looking to develop applications that are user-friendly and useful
 - 🤔 I’m seeking a job in Canada as a software development engineer
-- 💬 Ask me about learning coding from scratch and self-teaching
+- 💬 Ask me about change your career from research scientist to software develper
 - 📫 How to reach me: alexzou08@gmail.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I am interested in animal protection and outdoor sports
