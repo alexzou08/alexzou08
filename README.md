@@ -4,7 +4,7 @@
 ### Writing readable and reusable [clean code] is my greatest passion. 
 
 ### Skills: 
-### Java / JavaScript / HTML / CSS / SQL
+### Java / JavaScript / HTML / CSS / SQL / VB
 ### Object Oriented Design / System Design / Data Structures and Algorithms 
 
 - 🔭 I’m currently working on data structures and algorithms - heap
