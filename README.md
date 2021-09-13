@@ -6,6 +6,7 @@
 ### Skills: 
 ### Java / JavaScript / HTML / CSS / SQL / VB / Wolfram Language
 ### Object Oriented Design / System Design / Data Structures and Algorithms 
+### Spring / React
 
 - 🔭 I’m currently working on data structures and algorithms - heap
 - 🌱 I’m learning frameworks and up-to-date full stack technologies 
