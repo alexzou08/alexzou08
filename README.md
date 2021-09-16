@@ -1,12 +1,12 @@
 ## Hi there 👋, my name is Jiaqi
 
-### I am a self-taught software development engineer who is committed to lifelong learning.
-### Writing readable and reusable [clean code] is my greatest passion. 
+I am a self-taught software development engineer who is committed to lifelong learning.
+Writing readable and reusable [clean code] is my greatest passion. 
 
 ### Skills: 
-### Java / JavaScript / HTML / CSS / SQL / VB / Wolfram Language
-### Object Oriented Design / System Design / Data Structures and Algorithms 
-### Spring / React
+Java / JavaScript / HTML / CSS / SQL / VB / Wolfram Language
+Object Oriented Design / System Design / Data Structures and Algorithms 
+Spring / React
 
 - 🔭 I’m currently working on data structures and algorithms
 - 🌱 I’m learning frameworks and up-to-date full stack technologies 
