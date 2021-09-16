@@ -8,7 +8,7 @@
 ### Object Oriented Design / System Design / Data Structures and Algorithms 
 ### Spring / React
 
-- 🔭 I’m currently working on data structures and algorithms - heap
+- 🔭 I’m currently working on data structures and algorithms
 - 🌱 I’m learning frameworks and up-to-date full stack technologies 
 - 👯 I’m looking to develop applications that are user-friendly and useful
 - 🤔 I’m seeking a job in Canada as a software development engineer
