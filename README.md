@@ -7,7 +7,7 @@ Writing readable and reusable [clean code] is my greatest passion.
 ### Skills: 
 Java / JavaScript / HTML / CSS / SQL / VB / Wolfram Language
 Object Oriented Design / System Design / Data Structures and Algorithms 
-Spring / React
+Spring / React / Shell
 
 - 🔭 I’m currently working on data structures and algorithms
 - 🌱 I’m learning frameworks and up-to-date full stack technologies 
