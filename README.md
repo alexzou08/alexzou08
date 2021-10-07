@@ -9,7 +9,7 @@ Java / JavaScript / HTML / CSS / SQL / VB / Wolfram Language
 Object Oriented Design / System Design / Data Structures and Algorithms 
 Spring / React / Shell
 
-- 🔭 I’m currently working on data structures and algorithms
+- 🔭 My favorite programming language is Java
 - 🌱 I’m working on interesting system design problems
 - 👯 I’m looking to develop applications that are user-friendly and useful
 - 🤔 I’m seeking a job in Canada as a software development engineer
