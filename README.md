@@ -5,7 +5,7 @@ I am a software engineer who is committed to lifelong learning.
 Writing readable and reusable [clean code] is my greatest passion. 
 
 ### Skills: 
-Java / JavaScript / HTML / CSS / SQL / VB / Wolfram Language
+Java / JavaScript / HTML / CSS / SQL / VB / Wolfram Language /
 Object Oriented Design / System Design / Data Structures and Algorithms 
 Spring / React / Shell
 
