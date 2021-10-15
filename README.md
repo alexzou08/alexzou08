@@ -2,6 +2,8 @@
 
 I am a software engineer who is committed to lifelong learning.
 
+I am flexible with locations and willing to work remotely.
+
 Writing readable and reusable [clean code] is my greatest passion. 
 
 ### Skills: 
