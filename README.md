@@ -15,7 +15,7 @@ Spring / React / Shell
 - 🌱 I’m working on interesting system design problems
 - 👯 I’m looking to develop applications that are user-friendly and useful
 - 🤔 I’m seeking a job in Canada as a software development engineer
-- 📫 How to reach me: Email: alexzou08@gmail.com    Cell: 778-985-3381
+- 📫 How to reach me: Email: jiaqizou08@gmail.com    Cell: 778-985-3381
 - 😄 Pronouns: She/Her 
 
 <!---
