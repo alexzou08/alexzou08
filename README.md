@@ -1,18 +1,14 @@
 ## Hi there 👋, my name is Jiaqi
 
-I am a software engineer who is committed to lifelong learning.
-
-I am flexible with locations and willing to work remote.
-
-Writing readable and reusable [clean code] is my greatest passion. 
+I am a self-motivated software engineer who has a genuine interest in programming and is committed to lifelong learning. 
+Finding the right tool to solve challenging problems is my greatest passion. 
 
 ### Skills: 
-Java / JavaScript / HTML / CSS / SQL / VB / Wolfram Language /
+Java / JavaScript / HTML / CSS / SQL / VBA / Wolfram Language /
 Object Oriented Design / System Design / Data Structures and Algorithms 
 Spring / React / Shell
 
-- 🔭 My favorite programming language is Java
-- 🌱 I’m working on interesting system design problems
+- 🔭 Java is the programming language that I have been using recently
 - 👯 I’m looking to develop applications that are user-friendly and useful
 - 🤔 I’m seeking a job in Canada as a software development engineer
 - 📫 How to reach me: 
