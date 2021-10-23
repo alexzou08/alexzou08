@@ -8,7 +8,7 @@ Java / JavaScript / HTML / CSS / SQL / VBA / Wolfram Language /
 Object Oriented Design / System Design / Data Structures and Algorithms 
 Spring / React / Shell
 
-- 🔭 Java is the programming language that I have been using recently
+- 🔭 Java is the programming language that I have been using the most recently
 - 👯 I’m looking to develop applications that are user-friendly and useful
 - 🤔 I’m seeking a job in Canada as a software development engineer
 - 📫 How to reach me: 
