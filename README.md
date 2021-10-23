@@ -5,7 +5,7 @@ Finding the right tool to solve challenging problems is my greatest passion.
 
 ### Skills: 
 Java / JavaScript / HTML / CSS / SQL / VBA / Wolfram Language /
-Object Oriented Design / System Design / Data Structures and Algorithms 
+Object Oriented Design / System Design / Data Structures and Algorithms /
 Spring / React / Shell
 
 - 🔭 Java is the programming language that I have been using the most recently
