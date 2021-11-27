@@ -13,7 +13,7 @@ Spring / React / Shell
 - 🤔 I’m seeking a job in Canada as a software development engineer
 - 📫 How to reach me: 
 - Email: jiaqizou08@gmail.com    
-- Cell: 778-985-3381
+- Cell: 778-522-3381
 - LinkedIn: https://www.linkedin.com/in/jiaqizou08/
 
 
