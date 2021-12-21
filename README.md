@@ -10,7 +10,7 @@ Spring / React / Shell
 
 - 🔭 Java is the programming language that I have been using the most recently
 - 👯 I’m looking to develop applications that are user-friendly and useful
-- 🤔 I’m seeking a job in Canada as a software development engineer
+- 🤔 I am a software engineer at Vancouver now
 - 📫 How to reach me: 
 - Email: jiaqizou08@gmail.com    
 - Cell: 778-522-3381
