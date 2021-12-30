@@ -12,8 +12,8 @@ Spring / React / Shell
 - 👯 I’m looking to develop applications that are user-friendly and useful
 - 🤔 I am a software engineer at Vancouver now
 - 📫 How to reach me: 
-- Email: jiaqizou08@gmail.com    
-- Cell: 778-522-3381
+- Email:     
+- Cell: 
 - LinkedIn: https://www.linkedin.com/in/jiaqizou08/
 
 
