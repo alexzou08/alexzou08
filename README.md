@@ -14,7 +14,7 @@ Spring / React / Shell
 - 📫 How to reach me: 
 - Email:     
 - Cell: 
-- LinkedIn: https://www.linkedin.com/in/jiaqizou08/
+- LinkedIn:
 
 
 <!---
