@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Jiaqi
+## Hi there 👋, my name is Alex
 
 I am a self-motivated software engineer who has a genuine interest in programming and is committed to lifelong learning. 
 Finding the right tool to solve challenging problems is my greatest passion. 
